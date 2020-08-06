@@ -215,8 +215,10 @@ export default {
 
 <style scoped>
 .page-title {
+  font-size: 30px;
+  color: white;
   text-transform: uppercase;
-  color: black;
+  margin-bottom: 80px;
 }
 
 .main-div {
@@ -231,8 +233,10 @@ export default {
 }
 
 .subtitle {
-  font-size: 20px;
-  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: white;
+  text-transform: uppercase;
 }
 
 .desc {
@@ -266,5 +270,7 @@ export default {
 .btn-submit {
   width: 10%;
   height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 </style>

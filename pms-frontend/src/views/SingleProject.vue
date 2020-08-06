@@ -198,9 +198,11 @@ section .section-title {
   min-height: 400px;
 }
 
+/*
 #nav-tab {
   background: #333;
   padding: 10px;
   border-radius: 25px;
 }
+*/
 </style>
